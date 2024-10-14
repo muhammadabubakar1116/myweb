@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url('samsung-memory-ow8IIlkzbUw-unsplash.jpg'); /* Replace with your preferred Unsplash image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 72px;
+}
+.content {
+    background-color: rgba(128, 126, 126, 0.5); /* Optional: semi-transparent background for better text visibility */
+    padding: 20px;
+    border-radius: 8px;
+}
