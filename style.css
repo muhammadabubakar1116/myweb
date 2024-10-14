@@ -1,0 +1,40 @@
+body{
+    /*background: linear-gradient(to bottom left, red,green,blue, yellow,purple );
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;*/
+    margin: 0px;
+}
+button{
+    width: 105px;
+    height: 36px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+    border: none;    
+}
+input {
+    width: 300px;
+    height: 30px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    color: rgb(97, 96, 96);
+    margin-bottom: 10px;
+}
+form{
+    border: 2px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+    margin: 0px auto;
+    padding: 20px;
+    width: 300px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
